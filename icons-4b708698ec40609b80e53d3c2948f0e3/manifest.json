@@ -1,13 +1,13 @@
 {
-  "name": "Webpack App",
-  "short_name": "Webpack App",
+  "name": "WikiDaheim",
+  "short_name": "WikiDaheim",
   "description": null,
   "dir": "auto",
   "lang": "en-US",
   "display": "standalone",
   "orientation": "any",
   "start_url": "/?homescreen=1",
-  "background_color": "#fff",
+  "background_color": "#24224c",
   "icons": [
     {
       "src": "android-chrome-36x36.png",
